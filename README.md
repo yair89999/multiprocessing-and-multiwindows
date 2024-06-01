@@ -1,5 +1,6 @@
 # multiprocessing-and-multiwindows
 <p>Using multiprocessing to have 2 windows and sharing shapes and text between them</p>
+<p>Using multiprocessing to create seperated windows on the same display and using shared dict to comunicate between them, using the dict we can calculate what shapes and texts are shown where</p>
 
 <ul>
   <h2>Versions:</h2>
