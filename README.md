@@ -7,3 +7,5 @@
   <li>V2: same as version 1 but with more shapes and with text</li>
   <li>V3: thr shapes and text can be shown on the other window even if the windows don't collide</li>
 </ul>
+<h2>Image examples:</h2>
+<img src="img1.png">
