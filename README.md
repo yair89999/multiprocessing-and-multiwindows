@@ -10,7 +10,7 @@
   <li>V4: Same as V3 but now it is possible to choose the number of windows, no limitations in how much windows there will be</li>
 </ul>
 <h2>Image examples:</h2>
-<p>V2:</p>
+<b>V2:</b>
 <img src="img1.png">
 <p>V3:</p>
 <img src="img2.png">
