@@ -4,10 +4,12 @@
 
 <ul>
   <h2>Versions:</h2>
-  <li>V1: the windows have only rects, the rects are shown on the other window only when the windows collide</li>
-  <li>V2: same as version 1 but with more shapes and with text</li>
-  <li>V3: thr shapes and text can be shown on the other window even if the windows don't collide</li>
+  <li>V1: The windows have only rects, the rects are shown on the other window only when the windows collide</li>
+  <li>V2: Same as version 1 but with more shapes and with text</li>
+  <li>V3: The shapes and text can be shown on the other window even if the windows don't collide</li>
+  <li>V4: Same as V3 but now it is possible to choose the number of windows, no limitations in how much windows there will be</li>
 </ul>
 <h2>Image examples:</h2>
 <img src="img1.png">
 <img src="img2.png">
+<img src="img3.png">
