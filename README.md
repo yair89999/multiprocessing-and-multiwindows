@@ -12,7 +12,7 @@
 <h2>Image examples:</h2>
 <b>V2:</b>
 <img src="img1.png">
-<p>V3:</p>
+<b>V3:</b>
 <img src="img2.png">
-<p>V4:</p>
+<b>V4:</b>
 <img src="img3.png">
